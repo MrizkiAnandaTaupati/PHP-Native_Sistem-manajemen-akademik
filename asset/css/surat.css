@@ -1,0 +1,15 @@
+
+.rangkasurat{
+	width: 980px; 
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 20px;
+}
+.kepala{
+	border-bottom: 5px solid #000;
+	padding: 2px;
+}
+.tengah{
+	text-align: center;
+	line-height: 5px;
+}
